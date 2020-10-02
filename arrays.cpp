@@ -1,4 +1,4 @@
-#include<iostream>//in this code i am doing all the prorams given in array chapter
+#include<iostream>  //In this code I am doing all the programs that are given in the array chapter
 #include<iomanip>
 using namespace std;
 const int size=5;
